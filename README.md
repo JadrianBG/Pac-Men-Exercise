@@ -4,4 +4,4 @@
 ### Roadmap:  I will add speed variations for less random and more controlled pacmen bouncing fun.
 ### License Info:  This project was created in participation of the MIT xPro Women's Coding Certificate Program. The MIT License applies to all files.
 
-<a href="https://github.com/JadrianBG/JadrianBG.github.io"> Return to Jadrian BG Repo Home Page </a> 
+<a href="https://github.com/JadrianBG/JadrianBG.github.io"> Return to JadrianBG Repo Home Page </a> 
